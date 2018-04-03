@@ -68,7 +68,7 @@ https://github.com/nq117/imageAll/blob/master/Phrases/GIF.gif
 
 ### 关于作者
 
-ltnq
+南
 
 - github: https://github.com/nq117
 - e-mail: 1172921726@qq.com
