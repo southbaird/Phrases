@@ -72,7 +72,6 @@ ltnq
 
 - github: https://github.com/nq117
 - e-mail: 1172921726@qq.com
-- https://github.com/nq117/imageAll/blob/master/Phrases/GIF.gif
 
 ## LICENSE
 
