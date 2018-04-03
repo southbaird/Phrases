@@ -13,7 +13,7 @@
 ----
 
 ### 运行截图
-![运行截图][img] 
+https://github.com/nq117/imageAll/blob/master/Phrases/GIF.gif
 
 ----
 
@@ -64,7 +64,6 @@
 [gankio]: https://gank.io/api
 [wan]: http://www.wanandroid.com/
 
-[img]: https://github.com/nq117/imageAll/blob/master/Phrases/GIF.gif
 ----
 
 ### 关于作者
@@ -73,6 +72,7 @@ ltnq
 
 - github: https://github.com/nq117
 - e-mail: 1172921726@qq.com
+- https://github.com/nq117/imageAll/blob/master/Phrases/GIF.gif
 
 ## LICENSE
 
