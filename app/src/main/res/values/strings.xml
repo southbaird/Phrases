@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phrases</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="zhihu_detail_title">Zhihu daily</string>
+    <string name="wangyi_detail_title">Top news</string>
+    <string name="weixin_detail_title">WeChat</string>
+
+    <string name="wan_detail_title">WanAndroid</string>
+</resources>
