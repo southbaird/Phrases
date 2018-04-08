@@ -13,8 +13,14 @@
 ----
 
 ### 运行截图
+#### 项目完整截图
 https://github.com/nq117/imageAll/blob/master/Phrases/GIF.gif
-
+#### 获取系统图库拍照截图
+https://github.com/nq117/imageAll/blob/master/Phrases/cam.gif
+#### 日夜模式切换截图
+https://github.com/nq117/imageAll/blob/master/Phrases/pattern.gif
+#### 查看详情截图
+https://github.com/nq117/imageAll/blob/master/Phrases/webview.gif
 ----
 
 ### API来源
