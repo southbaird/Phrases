@@ -24,7 +24,10 @@ https://github.com/nq117/imageAll/blob/master/Phrases/webview.gif
 
 
 ----
+### 下载地址
+https://fir.im/phrases
 
+----
 ### API来源
 
 知乎日报以及每日新闻API源于Github开源项目中提供的API，干货API使用的是GankIo提供的API，微信精选API来源于聚合数据，影视以及图书都是来源于豆瓣API。
